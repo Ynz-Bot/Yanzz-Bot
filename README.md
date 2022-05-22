@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://telegra.ph/file/4637101da58e21976363b.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/c4be34e7a11265554dee8.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">Ynz</h1>
 <p align="center">
