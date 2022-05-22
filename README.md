@@ -10,7 +10,8 @@
   <a href="https://komarev.com/ghpvc/?username=Ynz-Bot&color=blue&style=flat-square&label=Profile+Dilihat"><img src="https://komarev.com/ghpvc/?username=Ynz-Bot&color=blue&style=flat-square&label=Profile+Dilihat" />
 
 </p>
-#MY Trophy
+
+## ```My Trophy``` 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ynz-Bot" alt="Ynz-Bot" /></a> </p>
 
