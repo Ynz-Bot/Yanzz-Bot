@@ -47,7 +47,7 @@
 ---------
 
 ## Donate 🧧
-* [`Gopay`](https://wa.me/6288287810316?text=Kak+Minta+Qrcode+Gopay+Nya)
+* [`Gopay`](https://telegra.ph/file/d6328e5dc999faa7ce51f.jpg)
 
 ---------
 
