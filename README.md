@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Ynz-Bot"><img title="Author" src="https://img.shields.io/badge/Author-Ynz-black.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Ynz-Bot"><img title="Author" src="https://img.shields.io/badge/Author-Ynz-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
