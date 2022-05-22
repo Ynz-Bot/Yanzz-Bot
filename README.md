@@ -74,7 +74,7 @@
 </details> 
 
 ![Top Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Ynz-Bot&show_icons=true&theme=tokyonight&hide_border=true)
-![My Github Status](https://github-readme-stats.vercel.app/api?username=Ynz-Bot&show_icons=true&theme=shades-of-purple&hide_border=true) -->
+![My Github Status](https://github-readme-stats.vercel.app/api?username=Ynz-Bot&show_icons=true&theme=shades-of-purple&hide_border=true)
 
 ## Visitor 💗
 <p align="center">
